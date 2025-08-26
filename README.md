@@ -5,4 +5,4 @@ this is my first project on Github. it  is a practice project where i am learnin
 - basic styling with CSS 
 - Javascript practice
 ## Author
-Mary Nduta - [My Github Ptofile] (https:///github.com/shannen-2025
+Mary Nduta - [My Github Ptofile] (https:///github.com/shannen-2025)
