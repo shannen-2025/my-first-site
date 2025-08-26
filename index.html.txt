@@ -1,0 +1,8 @@
+<!doctype.html>
+<html>
+<head><meta charset="utf-8"><tittle>My First Site</tittle></head>
+<body>
+<h1>Hello-my Git test!</h1>
+<p>Made by: Mary Nduta</p>
+</body>
+</html>
